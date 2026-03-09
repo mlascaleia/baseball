@@ -1,0 +1,63 @@
+﻿team,g0,g1,g2,g3,g4,g5,g6,g7,g8,g9
+BAL,KCR,KCR,KCR,OFF,@ PIT,@ PIT,@ PIT,OFF,@ BOS,@ BOS
+,Dean Kremer (R),Cole Irvin (L),Corbin Burnes (R),,Grayson Rodriguez (R),Tyler Wells (R),Dean Kremer (R),,Cole Irvin (L),Corbin Burnes (R)
+BOS,@ OAK,@ OAK,@ OAK,OFF,@ LAA,@ LAA,@ LAA,OFF,BAL,BAL
+,Tanner Houck (R),Brayan Bello (R),Nick Pivetta (R),,Kutter Crawford (R),Garrett Whitlock (R),Tanner Houck (R),,Brayan Bello (R),Nick Pivetta (R)
+NYY,@ ARI,@ ARI,@ ARI,OFF,TOR,TOR,TOR,MIA,MIA,MIA
+,Luis Gil (R),Nestor Cortes (L),Carlos Rodón (L),,Marcus Stroman (R),Clarke Schmidt (R),Luis Gil (R),Nestor Cortes (L),Carlos Rodón (L),Marcus Stroman (R)
+TBR,TEX,TEX,TEX,OFF,@ COL,@ COL,@ COL,@ LAA,@ LAA,@ LAA
+,Ryan Pepiot (R),Zach Eflin (R),Aaron Civale (R),,Zack Littell (R),Tyler Alexander (L),Ryan Pepiot (R),Zach Eflin (R),Aaron Civale (R),Zack Littell (R)
+TOR,@ HOU,@ HOU,@ HOU,OFF,@ NYY,@ NYY,@ NYY,SEA,SEA,SEA
+,Bowden Francis (R),José Berríos (R),Chris Bassitt (R),,Yusei Kikuchi (L),Kevin Gausman (R),Bowden Francis (R),José Berríos (R),Chris Bassitt (R),Yusei Kikuchi (L)
+CHW,ATL,ATL,ATL,@ KCR,@ KCR,@ KCR,@ KCR,@ CLE,@ CLE,@ CLE
+,Chris Flexen (R),Nick Nastrini (R),(null),Michael Soroka (R),Erick Fedde (R),Chris Flexen (R),Nick Nastrini (R),(null),Michael Soroka (R),Erick Fedde (R)
+CLE,@ SEA,@ SEA,@ SEA,@ MIN,OFF,@ MIN,@ MIN,CHW,CHW,CHW
+,Triston McKenzie (R),Shane Bieber (R),Logan Allen (L),Tanner Bibee (R),,Carlos Carrasco (R),Triston McKenzie (R),Shane Bieber (R),Logan Allen (L),Tanner Bibee (R)
+DET,@ NYM,@ NYM,@ NYM,OFF,OAK,OAK,OAK,@ PIT,@ PIT,OFF
+,Reese Olson (R),Casey Mize (R),Tarik Skubal (L),,Kenta Maeda (R),Jack Flaherty (R),Reese Olson (R),Casey Mize (R),Tarik Skubal (L),
+KCR,@ BAL,@ BAL,@ BAL,CHW,CHW,CHW,CHW,OFF,HOU,HOU
+,Michael Wacha (R),Alec Marsh (R),Cole Ragans (L),Seth Lugo (R),Brady Singer (R),Michael Wacha (R),Alec Marsh (R),,Cole Ragans (L),Seth Lugo (R)
+MIN,OFF,@ MIL,@ MIL,CLE,OFF,CLE,CLE,LAD,LAD,LAD
+,,Louie Varland (R),Chris Paddack (R),Pablo López (R),,Joe Ryan (R),Bailey Ober (R),Louie Varland (R),Chris Paddack (R),Pablo López (R)
+HOU,TOR,TOR,TOR,OFF,@ TEX,@ TEX,@ TEX,@ TEX,@ KCR,@ KCR
+,Ronel Blanco (R),Framber Valdez (L),Cristian Javier (R),,Hunter Brown (R),J.P. France (R),Ronel Blanco (R),Framber Valdez (L),Cristian Javier (R),Hunter Brown (R)
+LAA,@ MIA,@ MIA,@ MIA,OFF,BOS,BOS,BOS,TBR,TBR,TBR
+,Chase Silseth (R),Tyler Anderson (L),Patrick Sandoval (L),,Griffin Canning (R),Reid Detmers (L),Chase Silseth (R),Tyler Anderson (L),Patrick Sandoval (L),Griffin Canning (R)
+OAK,BOS,BOS,BOS,OFF,@ DET,@ DET,@ DET,OFF,@ TEX,@ TEX
+,Joe Boyle (R),Alex Wood (L),Ross Stripling (R),,JP Sears (L),Paul Blackburn (R),Joe Boyle (R),,Alex Wood (L),Ross Stripling (R)
+SEA,CLE,CLE,CLE,OFF,@ MIL,@ MIL,@ MIL,@ TOR,@ TOR,@ TOR
+,Emerson Hancock (R),Luis Castillo (R),George Kirby (R),,Logan Gilbert (R),Bryce Miller (R),Emerson Hancock (R),Luis Castillo (R),George Kirby (R),Logan Gilbert (R)
+TEX,@ TBR,@ TBR,@ TBR,OFF,HOU,HOU,HOU,HOU,OAK,OAK
+,Dane Dunning (R),Andrew Heaney (L),Nathan Eovaldi (R),,Cody Bradford (L),Jon Gray (R),Dane Dunning (R),Andrew Heaney (L),Nathan Eovaldi (R),Michael Lorenzen (R)
+ATL,@ CHW,@ CHW,@ CHW,OFF,ARI,ARI,ARI,NYM,NYM,NYM
+,Charlie Morton (R),Reynaldo López (R),Spencer Strider (R),,Max Fried (L),Chris Sale (L),Charlie Morton (R),Reynaldo López (R),Spencer Strider (R),Max Fried (L)
+MIA,LAA,LAA,LAA,@ STL,OFF,@ STL,@ STL,@ NYY,@ NYY,@ NYY
+,Max Meyer (R),Jesús Luzardo (L),A.J. Puk (L),Ryan Weathers (L),,Trevor Rogers (L),Max Meyer (R),Jesús Luzardo (L),A.J. Puk (L),Ryan Weathers (L)
+NYM,DET,DET,DET,OFF,@ CIN,@ CIN,@ CIN,@ ATL,@ ATL,@ ATL
+,Sean Manaea (L),Adrian Houser (R),Jose Quintana (L),,Luis Severino (R),Tylor Megill (R),Sean Manaea (L),Adrian Houser (R),Jose Quintana (L),Luis Severino (R)
+PHI,CIN,CIN,CIN,OFF,@ WSN,@ WSN,@ WSN,@ STL,@ STL,@ STL
+,Cristopher Sánchez (L),Spencer Turnbull (R),Zack Wheeler (R),,Aaron Nola (R),Ranger Suárez (L),Cristopher Sánchez (L),Zack Wheeler (R),Spencer Turnbull (R),Aaron Nola (R)
+WSN,PIT,OFF,PIT,PIT,PHI,PHI,PHI,@ SFG,@ SFG,@ SFG
+,MacKenzie Gore (L),,Trevor Williams (R),Josiah Gray (R),Patrick Corbin (L),Jake Irvin (R),MacKenzie Gore (L),Trevor Williams (R),Josiah Gray (R),Patrick Corbin (L)
+CHC,COL,COL,COL,OFF,LAD,LAD,LAD,@ SDP,@ SDP,@ SDP
+,Shota Imanaga (L),Javier Assad (R),Drew Smyly (L),,Kyle Hendricks (R),Jordan Wicks (L),Shota Imanaga (L),Javier Assad (R),Drew Smyly (L),Kyle Hendricks (R)
+CIN,@ PHI,@ PHI,@ PHI,OFF,NYM,NYM,NYM,MIL,MIL,MIL
+,Andrew Abbott (L),Graham Ashcraft (R),Frankie Montas (R),,Hunter Greene (R),Nick Martinez (R),Andrew Abbott (L),Graham Ashcraft (R),Frankie Montas (R),Nick Lodolo (L)
+MIL,OFF,MIN,MIN,OFF,SEA,SEA,SEA,@ CIN,@ CIN,@ CIN
+,,Jakob Junis (R),Joe Ross (R),,Freddy Peralta (R),DL Hall (L),Colin Rea (R),Jakob Junis (R),Wade Miley (L),Freddy Peralta (R)
+PIT,@ WSN,OFF,@ WSN,@ WSN,BAL,BAL,BAL,DET,DET,OFF
+,Marco Gonzales (L),,Mitch Keller (R),Martín Pérez (L),Jared Jones (R),Bailey Falter (L),Marco Gonzales (L),Mitch Keller (R),Martín Pérez (L),
+STL,@ SDP,@ SDP,@ SDP,MIA,OFF,MIA,MIA,PHI,PHI,PHI
+,Kyle Gibson (R),Miles Mikolas (R),Zack Thompson (L),Lance Lynn (R),,Steven Matz (L),Kyle Gibson (R),Miles Mikolas (R),Zack Thompson (L),Lance Lynn (R)
+NL West,Mon,Tue,Wed,Thu,Fri,Sat,Sun,Mon,Tue,Wed
+,1-Apr,2-Apr,3-Apr,4-Apr,5-Apr,6-Apr,7-Apr,8-Apr,9-Apr,10-Apr
+ARI,NYY,NYY,NYY,OFF,@ ATL,@ ATL,@ ATL,@ COL,@ COL,@ COL
+,Ryne Nelson (R),Zac Gallen (R),Merrill Kelly (R),,Tommy Henry (L),Brandon Pfaadt (R),Ryne Nelson (R),Zac Gallen (R),Merrill Kelly (R),Jordan Montgomery (L)
+COL,@ CHC,@ CHC,@ CHC,OFF,TBR,TBR,TBR,ARI,ARI,ARI
+,Dakota Hudson (R),Kyle Freeland (L),Cal Quantrill (R),,Austin Gomber (L),Ryan Feltner (R),Dakota Hudson (R),Kyle Freeland (L),Cal Quantrill (R),Austin Gomber (L)
+LAD,SFG,SFG,SFG,OFF,@ CHC,@ CHC,@ CHC,@ MIN,@ MIN,@ MIN
+,James Paxton (L),Tyler Glasnow (R),Bobby Miller (R),,Yoshinobu Yamamoto (R),Gavin Stone (R),James Paxton (L),Tyler Glasnow (R),Bobby Miller (R),Yoshinobu Yamamoto (R)
+SDP,STL,STL,STL,OFF,@ SFG,@ SFG,@ SFG,CHC,CHC,CHC
+,Matt Waldron (R),Yu Darvish (R),Joe Musgrove (R),,Dylan Cease (R),Michael King (R),Matt Waldron (R),Yu Darvish (R),Joe Musgrove (R),Dylan Cease (R)
+SFG,@ LAD,@ LAD,@ LAD,OFF,SDP,SDP,SDP,WSN,WSN,WSN
+,Keaton Winn (R),Logan Webb (R),Blake Snell (L),,Kyle Harrison (L),Jordan Hicks (R),Keaton Winn (R),Logan Webb (R),Blake Snell (L),Kyle Harrison (L)

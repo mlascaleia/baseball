@@ -1,0 +1,1862 @@
+﻿num,Name,Team,Position
+1,Patrick Bailey,SFG,C
+2,Jonah Heim,TEX,C
+3,Cal Raleigh,SEA,C
+4,Brenton Doyle,COL,CF
+5,William Contreras,MIL,C
+6,Austin Hedges,2 Tms,C
+7,Dansby Swanson,CHC,SS
+8,Francisco Alvarez,NYM,C
+9,Ezequiel Tovar,COL,SS
+10,Willy Adames,MIL,SS
+11,Sean Murphy,ATL,C
+12,Christian Vázquez,MIN,C
+13,Alejandro Kirk,TOR,C
+14,Thairo Estrada,SFG,2B
+15,Bobby Witt Jr.,KCR,SS
+16,Ke'Bryan Hayes,PIT,3B
+17,Andrés Giménez,CLE,2B
+18,Kyle Higashioka,NYY,C
+19,Marcus Semien,TEX,2B
+20,Adley Rutschman,BAL,C
+21,Javier Báez,DET,SS
+22,Wander Franco,TBR,SS
+23,Jose Trevino,NYY,C
+24,Will Smith,LAD,C
+25,Jake Rogers,DET,C
+26,Nick Fortes,MIA,C
+27,Maikel Garcia,KCR,3B
+28,Fernando Tatis Jr.,SDP,RF
+29,Bryson Stott,PHI,2B
+30,Francisco Lindor,NYM,SS
+31,Manny Machado,SDP,3B
+32,Nico Hoerner,CHC,2B
+33,Gabriel Moreno,ARI,C
+34,Paul DeJong,3 Tms,SS
+35,Seby Zavala,2 Tms,C
+36,Eugenio Suárez,SEA,3B
+37,Jason Delay,PIT,C
+38,Miguel Rojas,LAD,SS
+39,Daulton Varsho,TOR,CF
+40,Jeremy Peña,HOU,SS
+41,Endy Rodríguez,PIT,C
+42,Victor Caratini,MIL,C
+43,Kevin Kiermaier,TOR,CF
+44,Ryan McMahon,COL,3B
+45,Austin Wynns,3 Tms,C
+46,Nick Madrigal,CHC,3B
+47,Jose Siri,TBR,CF
+48,Michael Harris II,ATL,CF
+49,Jake Meyers,HOU,CF
+50,Luis Robert Jr.,CHW,CF
+51,Trevor Story,BOS,SS
+52,Gary Sánchez,2 Tms,C
+53,Freddy Fermin,KCR,C
+54,Orlando Arcia,ATL,SS
+55,Travis d'Arnaud,ATL,C
+56,José Caballero,SEA,2B
+57,Brandon Crawford,SFG,SS
+58,Bo Naylor,CLE,C
+59,Harrison Bader,2 Tms,CF
+60,Joey Wiemer,MIL,CF
+61,Xander Bogaerts,SDP,SS
+62,Cam Gallagher,CLE,C
+63,Adolis García,TEX,RF
+64,Anthony Volpe,NYY,SS
+65,Geraldo Perdomo,ARI,SS
+66,Nick Ahmed,ARI,SS
+67,Christian Bethancourt,TBR,C
+68,Nick Allen,OAK,SS
+69,Tucker Barnhart,CHC,C
+70,Matt Chapman,TOR,3B
+71,Kyle Isbel,KCR,CF
+72,Julio Rodríguez,SEA,CF
+73,Lourdes Gurriel Jr.,ARI,LF
+74,Ha-Seong Kim,SDP,2B
+75,Nolan Arenado,STL,3B
+76,James Outman,LAD,CF
+77,José Ramírez,CLE,3B
+78,James McCann,BAL,C
+79,Brandon Drury,LAA,2B
+80,Corey Seager,TEX,SS
+81,Yu Chang,BOS,SS
+82,Gabriel Arias,CLE,SS
+83,Tommy Edman,STL,SS
+84,Josh Jung,TEX,3B
+85,Ben Rortvedt,NYY,C
+86,Josh Rojas,2 Tms,2B
+87,Zach Neto,LAA,SS
+88,Brice Turang,MIL,2B
+89,Danny Jansen,TOR,C
+90,Jon Berti,MIA,SS
+91,J.D. Davis,SFG,3B
+92,Alex Call,WSN,CF
+93,Owen Miller,MIL,2B
+94,Tim Anderson,CHW,SS
+95,Sal Frelick,MIL,RF
+96,René Pinto,TBR,C
+97,Reese McGuire,BOS,C
+98,Yasmani Grandal,CHW,C
+99,Elvis Andrus,CHW,SS
+100,Matt McLain,CIN,SS
+101,Johan Rojas,PHI,CF
+102,Blake Perkins,MIL,CF
+103,Stuart Fairchild,CIN,RF
+104,Jacob Stallings,MIA,C
+105,Will Brennan,CLE,RF
+106,Eric Haase,2 Tms,C
+107,Carlos Correa,MIN,SS
+108,Brian Anderson,MIL,3B
+109,Michael A. Taylor,MIN,CF
+110,Zack Gelof,OAK,2B
+111,Alex Verdugo,BOS,RF
+112,Chas McCormick,HOU,CF
+113,Yainer Diaz,HOU,C
+114,Whit Merrifield,TOR,2B
+115,Steven Kwan,CLE,LF
+116,Elly De La Cruz,CIN,SS
+117,Michael Massey,KCR,2B
+118,Nicky Lopez,2 Tms,2B
+119,Brandon Lowe,TBR,2B
+120,Ryan Jeffers,MIN,C
+121,Nicky Lopez,2 Tms,3B
+122,DJ LeMahieu,NYY,3B
+123,Jeimer Candelario,2 Tms,3B
+124,Nolan Jones,COL,LF
+125,Dairon Blanco,KCR,RF
+126,Chad Wallach,LAA,C
+127,Carson Kelly,2 Tms,C
+128,Jared Triolo,PIT,3B
+129,Jorge Mateo,BAL,SS
+130,TJ Friedl,CIN,CF
+131,Mauricio Dubón,HOU,CF
+132,Drew Waters,KCR,RF
+133,Tommy Edman,STL,CF
+134,Tyrone Taylor,MIL,RF
+135,Parker Meadows,DET,CF
+136,Jackie Bradley Jr.,KCR,CF
+137,Cade Marlowe,SEA,LF
+138,Zach McKinstry,DET,2B
+139,Elly De La Cruz,CIN,3B
+140,Ezequiel Duran,TEX,SS
+141,Davis Schneider,TOR,2B
+142,Jonah Bride,OAK,3B
+143,Miguel Amaya,CHC,C
+144,Bo Bichette,TOR,SS
+145,Alan Trejo,COL,3B
+146,Jeff McNeil,NYM,2B
+147,Ramón Urías,BAL,2B
+148,Andruw Monasterio,MIL,3B
+149,Gunnar Henderson,BAL,SS
+150,Kyle Farmer,MIN,2B
+151,Jordan Westburg,BAL,3B
+152,Ildemaro Vargas,WSN,3B
+153,Evan Carter,TEX,LF
+154,Brett Wisely,SFG,2B
+155,Jake Cronenworth,SDP,2B
+156,Casey Schmitt,SFG,3B
+157,Blake Perkins,MIL,RF
+158,Emmanuel Rivera,ARI,3B
+159,Edmundo Sosa,PHI,SS
+160,Alex Bregman,HOU,3B
+161,Ketel Marte,ARI,2B
+162,Ramón Laureano,2 Tms,RF
+163,Joey Bart,SFG,C
+164,Austin Riley,ATL,3B
+165,Cristian Pache,PHI,CF
+166,Leody Taveras,TEX,CF
+167,Jake Marisnick,3 Tms,CF
+168,Royce Lewis,MIN,3B
+169,Alek Thomas,ARI,CF
+170,Elvis Andrus,CHW,2B
+171,Isiah Kiner-Falefa,NYY,3B
+172,Luke Maile,CIN,C
+173,Alec Bohm,PHI,3B
+174,Andy Ibáñez,DET,2B
+175,José Caballero,SEA,SS
+176,Rougned Odor,SDP,2B
+177,Iván Herrera,STL,C
+178,Ha-Seong Kim,SDP,3B
+179,TJ Friedl,CIN,LF
+180,Zach Remillard,CHW,2B
+181,Oswaldo Cabrera,NYY,3B
+182,David Villar,SFG,3B
+183,Manuel Margot,TBR,RF
+184,Jacob Young,WSN,CF
+185,José Fermín,STL,2B
+186,Gunnar Henderson,BAL,3B
+187,Bryce Johnson,SFG,CF
+188,Austin Barnes,LAD,C
+189,Blake Sabol,SFG,C
+190,Dylan Moore,SEA,2B
+191,Grae Kessinger,HOU,SS
+192,Omar Narváez,NYM,C
+193,Joey Wiemer,MIL,RF
+194,Avisaíl García,MIA,LF
+195,Ernie Clement,TOR,SS
+196,Greg Allen,NYY,CF
+197,Josh Donaldson,2 Tms,3B
+198,Willi Castro,MIN,3B
+199,Brendan Donovan,STL,LF
+200,Taylor Motter,STL,2B
+201,Tyler O'Neill,STL,LF
+202,Joey Wendle,MIA,SS
+203,Ronny Mauricio,NYM,2B
+204,Luis Urías,2 Tms,3B
+205,Mauricio Dubón,HOU,2B
+206,Jordan Lawlar,ARI,SS
+207,Luis Matos,SFG,RF
+208,Kevin Newman,CIN,3B
+209,Jon Berti,MIA,3B
+210,Joshua Palacios,PIT,RF
+211,Enrique Hernández,LAD,LF
+212,Kyren Paris,LAA,SS
+213,Connor Wong,BOS,C
+214,AJ Pollock,2 Tms,LF
+215,Dominic Fletcher,ARI,CF
+216,Logan Porter,KCR,C
+217,Andrew Stevenson,MIN,CF
+218,Jonathan Schoop,DET,2B
+219,Dalton Guthrie,PHI,CF
+220,David Fletcher,LAA,SS
+221,Mitch Garver,TEX,C
+222,Conner Capel,OAK,LF
+223,Sal Frelick,MIL,CF
+224,Travis Jankowski,TEX,CF
+225,Shea Langeliers,OAK,C
+226,Mike Zunino,CLE,C
+227,Michael Chavis,WSN,2B
+228,Jason Heyward,LAD,RF
+229,Curt Casali,CIN,C
+230,Nico Hoerner,CHC,SS
+231,Maikel Garcia,KCR,SS
+232,Lane Thomas,WSN,CF
+233,Amed Rosario,LAD,2B
+234,Ildemaro Vargas,WSN,2B
+235,Jace Peterson,2 Tms,3B
+236,Austin Wells,NYY,C
+237,Wilyer Abreu,BOS,LF
+238,Oswald Peraza,NYY,SS
+239,Jared Triolo,PIT,2B
+240,Gabriel Arias,CLE,3B
+241,Jesús Sánchez,MIA,LF
+242,Adam Duvall,BOS,RF
+243,Nicky Lopez,2 Tms,SS
+244,Ha-Seong Kim,SDP,SS
+245,Tyler Heineman,2 Tms,C
+246,Nicky Lopez,KCR,LF
+247,Lawrence Butler,OAK,CF
+248,Kyle Farmer,MIN,SS
+249,Matt Vierling,DET,3B
+250,Garrett Hampson,MIA,3B
+251,Kyle Stowers,BAL,LF
+252,Mike Trout,LAA,CF
+253,Korey Lee,CHW,C
+254,Luis Rengifo,LAA,RF
+255,Xavier Edwards,MIA,2B
+256,David Peralta,LAD,RF
+257,Chris Taylor,LAD,SS
+258,Brandon Marsh,PHI,LF
+259,Josh Smith,TEX,LF
+260,Brandon Nimmo,NYM,LF
+261,Isaac Paredes,TBR,3B
+262,Jake Cave,PHI,RF
+263,Santiago Espinal,TOR,3B
+264,Michael Pérez,NYM,C
+265,Nick Loftin,KCR,3B
+266,Pete Crow-Armstrong,CHC,CF
+267,Yoán Moncada,CHW,3B
+268,Michael Brantley,HOU,LF
+269,Matthew Batten,SDP,3B
+270,Rafael Ortega,NYM,LF
+271,James Outman,LAD,RF
+272,Kerry Carpenter,DET,LF
+273,Geraldo Perdomo,ARI,3B
+274,Myles Straw,CLE,CF
+275,Alika Williams,PIT,SS
+276,Jake Fraley,CIN,RF
+277,Mike Yastrzemski,SFG,CF
+278,Juniel Querecuto,STL,2B
+279,Gio Urshela,LAA,3B
+280,Junior Caminero,TBR,3B
+281,Willi Castro,MIN,SS
+282,Tomás Nido,NYM,C
+283,Riley Greene,DET,LF
+284,Tommy Edman,STL,RF
+285,Dominic Fletcher,ARI,RF
+286,Pablo Reyes,BOS,SS
+287,Vinny Capra,PIT,3B
+288,Cavan Biggio,TOR,3B
+289,Bryan De La Cruz,MIA,CF
+290,Aaron Judge,NYY,CF
+291,Lars Nootbaar,STL,LF
+292,Rafael Ortega,NYM,CF
+293,Willi Castro,MIN,LF
+294,Yan Gomes,CHC,C
+295,Willi Castro,MIN,2B
+296,Brendan Donovan,STL,RF
+297,Cristian Pache,PHI,LF
+298,Lars Nootbaar,STL,RF
+299,Joey Ortiz,BAL,SS
+300,Wil Myers,CIN,1B
+301,Zach McKinstry,DET,CF
+302,Trea Turner,PHI,SS
+303,Jordan Westburg,BAL,2B
+304,Chas McCormick,HOU,RF
+305,Nathan Lukes,TOR,RF
+306,Luke Raley,TBR,LF
+307,Cade Marlowe,SEA,CF
+308,Jarred Kelenic,SEA,RF
+309,Matt Duffy,KCR,2B
+310,Nolan Jones,COL,CF
+311,Bubba Thompson,TEX,RF
+312,Ceddanne Rafaela,BOS,CF
+313,Yu Chang,BOS,2B
+314,Buddy Kennedy,ARI,3B
+315,Romy Gonzalez,CHW,2B
+316,Evan Carter,TEX,CF
+317,Everson Pereira,NYY,LF
+318,Austin Hays,BAL,CF
+319,Marco Luciano,SFG,SS
+320,Jazz Chisholm Jr.,MIA,CF
+321,José Azocar,SDP,CF
+322,Curtis Mead,TBR,2B
+323,Zach Remillard,CHW,3B
+324,Blake Perkins,MIL,LF
+325,Ryan Kreidler,DET,SS
+326,Bryan De La Cruz,MIA,RF
+327,Corey Julks,HOU,LF
+328,Austin Slater,SFG,RF
+329,Tyler Freeman,CLE,2B
+330,Kevin Smith,OAK,3B
+331,Junior Caminero,TBR,SS
+332,Grae Kessinger,HOU,3B
+333,Tyler Soderstrom,OAK,C
+334,Andy Ibáñez,DET,1B
+335,Jose Altuve,HOU,2B
+336,Chris Taylor,LAD,LF
+337,Miles Mastrobuoni,CHC,2B
+338,Jordan Luplow,2 Tms,RF
+339,Joey Ortiz,BAL,2B
+340,Zach McKinstry,DET,RF
+341,Roberto Pérez,SFG,C
+342,Zach McKinstry,DET,3B
+343,Carlos Pérez,OAK,1B
+344,Jake Lamb,LAA,1B
+345,Jonathan Aranda,TBR,2B
+346,Christian Encarnacion-St...,CIN,3B
+347,Connor Kaiser,COL,SS
+348,Dylan Moore,SEA,LF
+349,Brendan Rodgers,COL,2B
+350,Owen Miller,MIL,1B
+351,Matt McLain,CIN,2B
+352,Nick Gordon,MIN,2B
+353,Luis Rengifo,LAA,CF
+354,Jonny DeLuca,LAD,RF
+355,Billy McKinney,NYY,CF
+356,Rougned Odor,SDP,RF
+357,Evan Longoria,ARI,3B
+358,Brandon Dixon,SDP,RF
+359,Vidal Bruján,TBR,2B
+360,Mookie Betts,LAD,2B
+361,Ryan McKenna,BAL,CF
+362,Brett Phillips,LAA,RF
+363,Jonny DeLuca,LAD,LF
+364,Spencer Horwitz,TOR,1B
+365,Travis Jankowski,TEX,LF
+366,Jake Alu,WSN,3B
+367,Johan Camargo,SFG,SS
+368,David Hamilton,BOS,2B
+369,Noelvi Marte,CIN,SS
+370,Oswald Peraza,NYY,2B
+371,Davis Schneider,TOR,LF
+372,David Fry,CLE,LF
+373,Nick Gonzales,PIT,2B
+374,Garrett Mitchell,MIL,CF
+375,Josh Harrison,PHI,2B
+376,Jorge Alfaro,2 Tms,C
+377,Grae Kessinger,HOU,2B
+378,Matt Thaiss,LAA,C
+379,Cody Thomas,OAK,RF
+380,Tristan Gray,TBR,SS
+381,Jordan Luplow,MIN,LF
+382,Yainer Diaz,HOU,1B
+383,Tyler Wade,OAK,SS
+384,Kyle Garlick,MIN,LF
+385,Estevan Florial,NYY,CF
+386,Tyler Fitzgerald,SFG,3B
+387,Connor Joe,PIT,RF
+388,Isiah Kiner-Falefa,NYY,CF
+389,Jonathan Araúz,NYM,3B
+390,José Tena,CLE,2B
+391,Brendan Donovan,STL,3B
+392,Maikel Garcia,KCR,2B
+393,Michael Conforto,SFG,LF
+394,Kevin Pillar,ATL,CF
+395,Nate Eaton,KCR,RF
+396,Jo Adell,LAA,LF
+397,David Villar,SFG,2B
+398,Anthony Bemboom,BAL,C
+399,Travis Jankowski,TEX,RF
+400,Nick Gonzales,PIT,SS
+401,Trey Cabbage,LAA,1B
+402,Andy Ibáñez,DET,3B
+403,Christian Arroyo,BOS,2B
+404,Jason Vosler,CIN,3B
+405,Jesús Sánchez,MIA,CF
+406,Owen Miller,MIL,3B
+407,Dylan Carlson,STL,CF
+408,Evan Carter,TEX,RF
+409,Jeff McNeil,NYM,RF
+410,Jackie Bradley Jr.,KCR,LF
+411,Charlie Blackmon,COL,RF
+412,Rodolfo Castro,2 Tms,3B
+413,Osleivis Basabe,TBR,2B
+414,Josh Smith,TEX,3B
+415,James Outman,LAD,LF
+416,Thairo Estrada,SFG,LF
+417,Joey Ortiz,BAL,3B
+418,Ryan Kreidler,DET,3B
+419,Trayce Thompson,2 Tms,LF
+420,Drew Ellis,PHI,3B
+421,Connor Joe,PIT,LF
+422,Mike Tauchman,CHC,LF
+423,Michael Toglia,COL,1B
+424,Jacob Amaya,MIA,SS
+425,Matt Duffy,KCR,3B
+426,Harold Ramírez,TBR,LF
+427,Enrique Hernández,LAD,1B
+428,Chris Taylor,LAD,CF
+429,Óscar Mercado,STL,LF
+430,Ernie Clement,TOR,2B
+431,Alex Call,WSN,RF
+432,Tim Locastro,NYM,LF
+433,Tyler Cropley,KCR,C
+434,Jo Adell,LAA,CF
+435,Cedric Mullins,BAL,CF
+436,Juniel Querecuto,STL,3B
+437,Andrew Stevenson,MIN,LF
+438,Zach Remillard,CHW,SS
+439,Luis Campusano,SDP,C
+440,Josh Rojas,2 Tms,3B
+441,Eguy Rosario,SDP,3B
+442,Aledmys Díaz,OAK,2B
+443,Michael Chavis,WSN,1B
+444,César Salazar,HOU,C
+445,Edouard Julien,MIN,1B
+446,DJ LeMahieu,NYY,2B
+447,Chris Owings,PIT,SS
+448,Tucupita Marcano,PIT,2B
+449,Brice Turang,MIL,SS
+450,Yandy Díaz,TBR,3B
+451,Elvis Andrus,CHW,3B
+452,Trayce Thompson,2 Tms,RF
+453,Liover Peguero,PIT,SS
+454,Samad Taylor,KCR,2B
+455,Owen Miller,MIL,LF
+456,Jo Adell,LAA,RF
+457,Mike Moustakas,2 Tms,3B
+458,Lenyn Sosa,CHW,3B
+459,Nolan Gorman,STL,3B
+460,Josh Lowe,TBR,LF
+461,Grae Kessinger,HOU,1B
+462,Chadwick Tromp,ATL,C
+463,Blake Rutherford,WSN,LF
+464,Brandon Marsh,PHI,RF
+465,Kody Clemens,PHI,1B
+466,Jonny DeLuca,LAD,CF
+467,Brian Serven,COL,C
+468,Hunter Goodman,COL,1B
+469,Taylor Motter,STL,SS
+470,Mark Canha,2 Tms,RF
+471,Ji Hwan Bae,PIT,CF
+472,Tony Kemp,OAK,2B
+473,Dairon Blanco,KCR,LF
+474,Adam Frazier,BAL,RF
+475,Dairon Blanco,KCR,CF
+476,Aledmys Díaz,OAK,3B
+477,Henry Ramos,CIN,RF
+478,Kevin Pillar,ATL,RF
+479,Michael Siani,2 Tms,CF
+480,Caleb Hamilton,BOS,C
+481,Jake McCarthy,ARI,CF
+482,Jonathan Ornelas,TEX,3B
+483,Vinny Capra,PIT,2B
+484,Josh Lester,BAL,1B
+485,Sean Bouchard,COL,LF
+486,Ezequiel Duran,TEX,2B
+487,Mauricio Dubón,HOU,SS
+488,Zack Collins,CLE,C
+489,Oneil Cruz,PIT,SS
+490,Nick Senzel,CIN,3B
+491,Tyler Fitzgerald,SFG,CF
+492,Yonny Hernández,LAD,3B
+493,Vidal Bruján,TBR,3B
+494,Cal Stevenson,SFG,CF
+495,Lars Nootbaar,STL,CF
+496,Óscar Mercado,STL,CF
+497,Hunter Dozier,KCR,1B
+498,Sean Bouchard,COL,RF
+499,Yonny Hernández,LAD,2B
+500,Miguel Vargas,LAD,1B
+501,Drew Maggi,PIT,3B
+502,Trevor Larnach,MIN,RF
+503,Trent Grisham,SDP,CF
+504,Jonathan Araúz,NYM,2B
+505,Kyren Paris,LAA,2B
+506,Zach McKinstry,DET,SS
+507,David Hensley,HOU,1B
+508,Sandy León,TEX,C
+509,Wade Meckler,SFG,LF
+510,Davis Schneider,TOR,3B
+511,Nicky Lopez,2 Tms,1B
+512,Ceddanne Rafaela,BOS,2B
+513,Manny Piña,OAK,C
+514,Kole Calhoun,CLE,RF
+515,Jahmai Jones,MIL,2B
+516,Jason Heyward,LAD,1B
+517,Austin Slater,SFG,CF
+518,Anthony Santander,BAL,1B
+519,Tyler Wade,OAK,LF
+520,Michael Chavis,WSN,3B
+521,Nick Pratto,KCR,LF
+522,Mike Ford,SEA,1B
+523,Clint Frazier,CHW,LF
+524,José Azocar,SDP,LF
+525,Richie Palacios,STL,RF
+526,Andrew Velazquez,LAA,2B
+527,José Tena,CLE,3B
+528,Rob Refsnyder,BOS,CF
+529,Enrique Hernández,LAD,RF
+530,Irving Lopez,STL,2B
+531,Heston Kjerstad,BAL,LF
+532,Hunter Renfroe,LAA,1B
+533,Pablo Reyes,BOS,3B
+534,Travis Blankenhorn,WSN,RF
+535,Sam Huff,TEX,C
+536,Esteury Ruiz,OAK,LF
+537,Harold Castro,COL,SS
+538,Tyler Freeman,CLE,SS
+539,Andruw Monasterio,MIL,2B
+540,Zach McKinstry,DET,LF
+541,Josh Smith,TEX,2B
+542,Jordan Luplow,MIN,1B
+543,Jake Marisnick,CHW,RF
+544,Tyler Stephenson,CIN,1B
+545,Michael Busch,LAD,1B
+546,Jon Berti,MIA,2B
+547,Edmundo Sosa,PHI,3B
+548,Akil Baddoo,DET,CF
+549,Forrest Wall,ATL,CF
+550,Andrew Velazquez,LAA,CF
+551,Jace Peterson,2 Tms,2B
+552,Tyrone Taylor,MIL,LF
+553,Jason Heyward,LAD,LF
+554,Nathan Lukes,TOR,LF
+555,Jonathan Davis,MIA,RF
+556,Zack Short,DET,2B
+557,Raimel Tapia,2 Tms,CF
+558,Edward Olivares,KCR,RF
+559,Alan Trejo,COL,2B
+560,Miles Mastrobuoni,CHC,3B
+561,Liover Peguero,PIT,2B
+562,Gavin Sheets,CHW,LF
+563,J.D. Martinez,LAD,LF
+564,Akil Baddoo,DET,RF
+565,J.P. Crawford,SEA,SS
+566,Matt Thaiss,LAA,1B
+567,Garrett Hampson,MIA,SS
+568,Nick Gordon,MIN,LF
+569,Taylor Walls,TBR,3B
+570,Heliot Ramos,SFG,CF
+571,Weston Wilson,PHI,LF
+572,Taylor Kohlwey,SDP,LF
+573,Christian Vázquez,MIN,1B
+574,Eli White,ATL,CF
+575,J.P. Martínez,TEX,CF
+576,Abraham Toro,MIL,1B
+577,Dalton Guthrie,PHI,LF
+578,Drew Millas,WSN,C
+579,Mauricio Dubón,HOU,1B
+580,Daulton Varsho,TOR,LF
+581,Taylor Trammell,SEA,LF
+582,Forrest Wall,ATL,LF
+583,Nate Eaton,KCR,CF
+584,Bubba Thompson,TEX,LF
+585,Jordyn Adams,LAA,LF
+586,Brian O'Keefe,SEA,C
+587,Jake Burger,CHW,1B
+588,Isiah Kiner-Falefa,NYY,RF
+589,Greg Allen,NYY,RF
+590,Cole Tucker,COL,RF
+591,Wilmer Flores,SFG,2B
+592,Jonathan Araúz,NYM,SS
+593,Jackie Bradley Jr.,KCR,RF
+594,Isan Díaz,2 Tms,2B
+595,J.P. Martínez,TEX,LF
+596,Dane Myers,MIA,CF
+597,Rodolfo Castro,2 Tms,2B
+598,Aledmys Díaz,OAK,1B
+599,Luis Torrens,2 Tms,C
+600,Bobby Dalbec,BOS,3B
+601,Jurickson Profar,SDP,1B
+602,Hunter Dozier,KCR,3B
+603,Harold Castro,COL,RF
+604,Canaan Smith-Njigba,PIT,LF
+605,Trey Cabbage,LAA,CF
+606,Richie Palacios,STL,LF
+607,Jorge Polanco,MIN,3B
+608,Ryan Kreidler,DET,2B
+609,Rob Refsnyder,BOS,LF
+610,Meibrys Viloria,CLE,C
+611,Kevin Pillar,ATL,LF
+612,Jeff McNeil,NYM,CF
+613,Dylan Moore,SEA,CF
+614,Chris Taylor,LAD,3B
+615,Gio Urshela,LAA,SS
+616,Jake Burger,CHW,2B
+617,Tony Kemp,OAK,LF
+618,LaMonte Wade Jr.,SFG,RF
+619,Adam Frazier,BAL,LF
+620,Andrew McCutchen,PIT,RF
+621,Adam Duvall,BOS,LF
+622,Luke Raley,TBR,CF
+623,Will Benson,CIN,RF
+624,Christopher Morel,CHC,3B
+625,Gabriel Arias,CLE,1B
+626,Cam Eden,TOR,LF
+627,Tyrone Taylor,MIL,CF
+628,Mark Canha,2 Tms,1B
+629,Livan Soto,LAA,2B
+630,Vidal Bruján,TBR,RF
+631,Aledmys Díaz,OAK,LF
+632,Drew Waters,KCR,CF
+633,J.D. Davis,SFG,1B
+634,Brandon Dixon,SDP,1B
+635,Tim Locastro,NYM,CF
+636,Michael Stefanic,LAA,3B
+637,Tommy Pham,NYM,CF
+638,Luis Rengifo,LAA,LF
+639,Andy Ibáñez,DET,LF
+640,Adam Haseley,CHW,CF
+641,Brayan Rocchio,CLE,SS
+642,Carter Kieboom,WSN,3B
+643,Ezequiel Duran,TEX,1B
+644,Mark Mathias,PIT,RF
+645,Will Benson,CIN,CF
+646,David Fletcher,LAA,3B
+647,Dominic Fletcher,ARI,LF
+648,Ryan McKenna,BAL,LF
+649,Aledmys Díaz,OAK,SS
+650,Mickey Moniak,LAA,RF
+651,Colton Cowser,BAL,LF
+652,Isaac Paredes,TBR,2B
+653,José Caballero,SEA,3B
+654,Mickey Moniak,LAA,LF
+655,Garrett Hampson,MIA,LF
+656,Irving Lopez,STL,3B
+657,Ryan McKenna,BAL,RF
+658,Mike Yastrzemski,SFG,RF
+659,Mickey Moniak,LAA,CF
+660,Curtis Mead,TBR,3B
+661,Eduardo Escobar,LAA,1B
+662,Sam Haggerty,SEA,1B
+663,Nick Senzel,CIN,2B
+664,Jake Cave,PHI,1B
+665,Harold Castro,COL,LF
+666,Cavan Biggio,TOR,1B
+667,Joey Gallo,MIN,CF
+668,David Villar,SFG,1B
+669,Tyler Naquin,CHW,LF
+670,Jason Heyward,LAD,CF
+671,Nick Maton,DET,SS
+672,Mike Tauchman,CHC,CF
+673,Jake Cave,PHI,LF
+674,Ildemaro Vargas,WSN,LF
+675,Michael Stefanic,LAA,2B
+676,Marcell Ozuna,ATL,LF
+677,Ehire Adrianza,ATL,SS
+678,Akil Baddoo,DET,LF
+679,Ceddanne Rafaela,BOS,SS
+680,Kevin Newman,CIN,1B
+681,Luke Williams,LAD,SS
+682,Ramón Laureano,2 Tms,CF
+683,Taylor Ward,LAA,LF
+684,Austin Slater,SFG,LF
+685,Ryan Noda,OAK,RF
+686,Joshua Palacios,PIT,CF
+687,Garrett Hampson,MIA,2B
+688,Heliot Ramos,SFG,RF
+689,Franchy Cordero,NYY,LF
+690,Ben Gamel,SDP,LF
+691,Mauricio Dubón,HOU,LF
+692,Alan Trejo,COL,SS
+693,Spencer Steer,CIN,2B
+694,Jared Triolo,PIT,1B
+695,Brett Wisely,SFG,CF
+696,David Hensley,HOU,2B
+697,Christopher Morel,CHC,SS
+698,David Peralta,LAD,LF
+699,Sam Hilliard,ATL,LF
+700,Jonah Bride,OAK,1B
+701,Adam Haseley,CHW,RF
+702,Spencer Steer,CIN,RF
+703,Dylan Carlson,STL,LF
+704,Luke Williams,ATL,3B
+705,TJ Hopkins,CIN,RF
+706,Luis Guillorme,NYM,SS
+707,Kyren Paris,LAA,CF
+708,Zach Remillard,CHW,LF
+709,Tommy Edman,STL,2B
+710,Nelson Velázquez,CHC,CF
+711,Sam Haggerty,SEA,RF
+712,Yasmani Grandal,CHW,1B
+713,Kevin Newman,CIN,2B
+714,Nick Martini,CIN,RF
+715,Jake Alu,WSN,LF
+716,Drew Ellis,PHI,1B
+717,Carlos Pérez,OAK,C
+718,Jonathan Aranda,TBR,3B
+719,Cristian Pache,PHI,RF
+720,Thairo Estrada,SFG,SS
+721,Jack Suwinski,PIT,LF
+722,Adam Engel,SDP,CF
+723,Mitch Haniger,SFG,RF
+724,Lawrence Butler,OAK,RF
+725,Chas McCormick,HOU,LF
+726,Randal Grichuk,2 Tms,CF
+727,Zack Short,DET,SS
+728,Edmundo Sosa,PHI,2B
+729,Andy Ibáñez,DET,RF
+730,Dylan Moore,SEA,RF
+731,Luke Raley,TBR,1B
+732,Oswald Peraza,NYY,3B
+733,Nick Madrigal,CHC,2B
+734,Travis Blankenhorn,WSN,LF
+735,Kyle Farmer,MIN,3B
+736,Casey Schmitt,SFG,SS
+737,Nick Maton,DET,2B
+738,Mike Tauchman,CHC,RF
+739,Osleivis Basabe,TBR,SS
+740,Donovan Solano,MIN,3B
+741,Colton Cowser,BAL,CF
+742,Nick Loftin,KCR,1B
+743,Christopher Morel,CHC,2B
+744,Will Brennan,CLE,LF
+745,Tim Anderson,CHW,2B
+746,Randal Grichuk,COL,RF
+747,Esteury Ruiz,OAK,RF
+748,Austin Meadows,DET,LF
+749,Nelson Velázquez,2 Tms,LF
+750,Gio Urshela,LAA,1B
+751,Bobby Dalbec,BOS,1B
+752,Braden Shewmake,ATL,SS
+753,Mark Vientos,NYM,1B
+754,Bubba Thompson,TEX,CF
+755,Josh Lowe,TBR,RF
+756,DJ Stewart,NYM,LF
+757,Luis Guillorme,NYM,3B
+758,Oswaldo Cabrera,NYY,SS
+759,MJ Melendez,KCR,C
+760,Christian Arroyo,BOS,SS
+761,Riley Greene,DET,RF
+762,Max Kepler,MIN,RF
+763,Nick Martini,CIN,LF
+764,Jake Alu,WSN,2B
+765,Willie Calhoun,NYY,LF
+766,Nick Gordon,MIN,CF
+767,JJ Bleday,OAK,LF
+768,Jurickson Profar,SDP,RF
+769,Taylor Motter,STL,3B
+770,Emmanuel Rivera,ARI,1B
+771,Jorge Mateo,BAL,CF
+772,Tommy Pham,ARI,RF
+773,Chris Taylor,LAD,2B
+774,Jared Walsh,LAA,RF
+775,Romy Gonzalez,CHW,LF
+776,Giancarlo Stanton,NYY,LF
+777,Harold Ramírez,TBR,1B
+778,Donovan Solano,MIN,2B
+779,Isaac Paredes,TBR,1B
+780,Matt Vierling,DET,LF
+781,Kevin Padlo,LAA,1B
+782,Josh Harrison,PHI,3B
+783,Ryan O'Hearn,BAL,LF
+784,Patrick Wisdom,CHC,RF
+785,Jeter Downs,WSN,SS
+786,Jordyn Adams,LAA,RF
+787,Clint Frazier,CHW,CF
+788,Kyle Garlick,MIN,RF
+789,Nate Eaton,KCR,LF
+790,Alex Kirilloff,MIN,RF
+791,Rafael Ortega,NYM,RF
+792,Eric Hosmer,CHC,1B
+793,Livan Soto,LAA,SS
+794,Billy McKinney,NYY,RF
+795,Jarred Kelenic,SEA,CF
+796,Hanser Alberto,CHW,2B
+797,Carlos Pérez,CHW,C
+798,Jonathan Schoop,DET,3B
+799,Sam Haggerty,SEA,2B
+800,Aaron Judge,NYY,RF
+801,Heliot Ramos,SFG,LF
+802,Peyton Burdick,MIA,RF
+803,Samad Taylor,KCR,LF
+804,Lenyn Sosa,CHW,2B
+805,Dylan Moore,SEA,SS
+806,Anthony Rizzo,NYY,1B
+807,Masyn Winn,STL,SS
+808,Christian Walker,ARI,1B
+809,Nick Loftin,KCR,2B
+810,Austin Hays,BAL,RF
+811,Andrew Velazquez,LAA,SS
+812,Henry Ramos,CIN,LF
+813,David Hamilton,BOS,SS
+814,Tyler O'Neill,STL,CF
+815,Vaughn Grissom,ATL,2B
+816,Seth Brown,OAK,RF
+817,Miles Mastrobuoni,CHC,RF
+818,George Springer,TOR,RF
+819,Jack Suwinski,PIT,RF
+820,Patrick Wisdom,CHC,LF
+821,Aaron Hicks,BAL,RF
+822,Stone Garrett,WSN,LF
+823,TJ Hopkins,CIN,LF
+824,Hunter Dozier,KCR,RF
+825,Danny Mendick,NYM,LF
+826,Peyton Burdick,MIA,CF
+827,Colton Cowser,BAL,RF
+828,Harold Castro,COL,CF
+829,Casey Schmitt,SFG,2B
+830,Alex Call,WSN,LF
+831,Luis Rengifo,LAA,2B
+832,Jonathan Davis,MIA,CF
+833,Franmil Reyes,KCR,LF
+834,Kyle Stowers,BAL,RF
+835,Patrick Wisdom,CHC,1B
+836,Joc Pederson,SFG,RF
+837,Christopher Morel,CHC,CF
+838,Tyler Nevin,DET,1B
+839,Andruw Monasterio,MIL,SS
+840,Tyler Nevin,DET,LF
+841,Terrin Vavra,BAL,RF
+842,Mookie Betts,LAD,SS
+843,Tyler Soderstrom,OAK,1B
+844,Adolis García,TEX,CF
+845,Jeff McNeil,NYM,LF
+846,Dominic Canzone,SEA,LF
+847,Jason Vosler,CIN,1B
+848,Brandon Belt,TOR,1B
+849,Justin Turner,BOS,2B
+850,Terrin Vavra,BAL,LF
+851,Jose Barrero,CIN,SS
+852,Harold Castro,COL,3B
+853,Willie Calhoun,NYY,RF
+854,Nolan Gorman,STL,2B
+855,Brendan Donovan,STL,2B
+856,Greg Allen,NYY,LF
+857,Austin Hays,BAL,LF
+858,Garrett Stubbs,PHI,C
+859,Josh Smith,TEX,SS
+860,Brandon Marsh,PHI,CF
+861,Óscar Mercado,STL,RF
+862,Geraldo Perdomo,ARI,2B
+863,Taylor Walls,TBR,SS
+864,Santiago Espinal,TOR,SS
+865,Xavier Edwards,MIA,CF
+866,Sam Hilliard,ATL,CF
+867,Trey Cabbage,LAA,RF
+868,Jake Bauers,NYY,LF
+869,José Fermín,STL,3B
+870,Taylor Walls,TBR,2B
+871,Cody Bellinger,CHC,CF
+872,Jon Singleton,2 Tms,1B
+873,Avisaíl García,MIA,RF
+874,Derek Hill,WSN,CF
+875,Mookie Betts,LAD,RF
+876,Danny Mendick,NYM,3B
+877,Matthew Batten,SDP,2B
+878,Wilyer Abreu,BOS,CF
+879,Jonathan Aranda,TBR,1B
+880,Brian Anderson,MIL,RF
+881,Joey Gallo,MIN,RF
+882,Corbin Carroll,ARI,LF
+883,Bligh Madris,HOU,1B
+884,Rougned Odor,SDP,3B
+885,Enrique Hernández,LAD,3B
+886,Edouard Julien,MIN,2B
+887,Ji Hwan Bae,PIT,SS
+888,Jordan Diaz,OAK,2B
+889,Jasson Domínguez,NYY,CF
+890,Josh Harrison,PHI,LF
+891,Luke Voit,MIL,1B
+892,Eddie Rosario,ATL,LF
+893,Willi Castro,MIN,RF
+894,Luis Matos,SFG,LF
+895,Luis Rengifo,LAA,3B
+896,Luken Baker,STL,1B
+897,Canaan Smith-Njigba,PIT,RF
+898,Corbin Carroll,ARI,RF
+899,Oscar Gonzalez,CLE,LF
+900,Luis Guillorme,NYM,2B
+901,Miguel Andujar,PIT,RF
+902,Jarren Duran,BOS,LF
+903,Jon Berti,MIA,LF
+904,Will Brennan,CLE,CF
+905,Bryan Reynolds,PIT,CF
+906,Noelvi Marte,CIN,3B
+907,Stone Garrett,WSN,RF
+908,Nolan Jones,COL,1B
+909,Jose Barrero,CIN,CF
+910,Matt Duffy,KCR,1B
+911,Ronny Mauricio,NYM,3B
+912,Mark Vientos,NYM,3B
+913,Matthew Batten,SDP,1B
+914,José Azocar,SDP,RF
+915,Matt Carpenter,SDP,1B
+916,Trayce Thompson,2 Tms,CF
+917,Kevin Smith,OAK,SS
+918,Darick Hall,PHI,1B
+919,J.P. Martínez,TEX,RF
+920,Clint Frazier,CHW,RF
+921,Eloy Jiménez,CHW,RF
+922,CJ Abrams,WSN,SS
+923,Oswaldo Cabrera,NYY,RF
+924,Billy McKinney,NYY,LF
+925,Kole Calhoun,CLE,1B
+926,Ryan O'Hearn,BAL,1B
+927,Kolten Wong,2 Tms,2B
+928,Raimel Tapia,3 Tms,LF
+929,Salvador Perez,KCR,1B
+930,Oswaldo Cabrera,NYY,2B
+931,Ramón Urías,BAL,1B
+932,Trey Mancini,CHC,RF
+933,Johan Camargo,SFG,3B
+934,Wilmer Flores,SFG,3B
+935,Gabriel Arias,CLE,RF
+936,Sam Haggerty,SEA,LF
+937,Alec Burleson,STL,RF
+938,Mike Yastrzemski,SFG,LF
+939,Oscar Colás,CHW,CF
+940,Matt Beaty,KCR,1B
+941,Zack Short,DET,3B
+942,Nick Pratto,KCR,RF
+943,Corbin Carroll,ARI,CF
+944,Osleivis Basabe,TBR,3B
+945,Mike Brosseau,MIL,1B
+946,Brandon Drury,LAA,1B
+947,Alex Kirilloff,MIN,LF
+948,Josh Harrison,PHI,RF
+949,Richie Palacios,STL,CF
+950,LaMonte Wade Jr.,SFG,LF
+951,Hunter Goodman,COL,RF
+952,Franchy Cordero,NYY,RF
+953,Dominic Canzone,2 Tms,RF
+954,Cavan Biggio,TOR,RF
+955,Oswaldo Cabrera,NYY,LF
+956,Nolan Jones,COL,RF
+957,David Fry,CLE,C
+958,Stuart Fairchild,CIN,CF
+959,Pablo Reyes,BOS,2B
+960,Enrique Hernández,2 Tms,CF
+961,Joey Gallo,MIN,1B
+962,Josh Lowe,TBR,CF
+963,Santiago Espinal,TOR,2B
+964,David Fry,CLE,1B
+965,Ji Hwan Bae,PIT,2B
+966,Garrett Hampson,MIA,RF
+967,Matt Wallner,MIN,LF
+968,Willson Contreras,STL,C
+969,Ji Man Choi,2 Tms,1B
+970,Dylan Carlson,STL,RF
+971,Hanser Alberto,CHW,3B
+972,Garrett Hampson,MIA,CF
+973,David Fletcher,LAA,2B
+974,Tyler Freeman,CLE,3B
+975,Brett Baty,NYM,3B
+976,Jesús Aguilar,OAK,1B
+977,José Tena,CLE,SS
+978,Nick Senzel,CIN,CF
+979,Zach Remillard,CHW,RF
+980,Tyler Nevin,DET,3B
+981,Coco Montes,COL,2B
+982,Yonathan Daza,COL,CF
+983,David Dahl,SDP,RF
+984,Raimel Tapia,3 Tms,RF
+985,Tommy Pham,2 Tms,LF
+986,Kevin Newman,CIN,SS
+987,Jake Bauers,NYY,1B
+988,Garrett Cooper,2 Tms,1B
+989,Fernando Tatis Jr.,SDP,CF
+990,Abraham Toro,MIL,3B
+991,Matt Wallner,MIN,RF
+992,Connor Joe,PIT,1B
+993,Jarren Duran,BOS,CF
+994,Christopher Morel,CHC,LF
+995,Bryce Harper,PHI,1B
+996,Mitch Haniger,SFG,LF
+997,Brett Sullivan,SDP,C
+998,Riley Greene,DET,CF
+999,Whit Merrifield,TOR,RF
+1000,Kris Bryant,COL,1B
+1001,Jake Fraley,CIN,LF
+1002,Wade Meckler,SFG,CF
+1003,Rob Refsnyder,BOS,RF
+1004,Brent Rooker,OAK,LF
+1005,Matt Vierling,DET,CF
+1006,Josh Naylor,CLE,1B
+1007,Brett Phillips,LAA,CF
+1008,Seth Brown,OAK,1B
+1009,David Fry,CLE,RF
+1010,C.J. Cron,2 Tms,1B
+1011,Joey Meneses,WSN,1B
+1012,Romy Gonzalez,CHW,RF
+1013,JJ Bleday,OAK,RF
+1014,Matt Mervis,CHC,1B
+1015,Jeimer Candelario,CHC,1B
+1016,Jordan Diaz,OAK,1B
+1017,Jean Segura,MIA,3B
+1018,Stuart Fairchild,CIN,LF
+1019,Ryan O'Hearn,BAL,RF
+1020,Juan Yepez,STL,LF
+1021,Gavin Sheets,CHW,1B
+1022,Aaron Hicks,2 Tms,LF
+1023,Jack Suwinski,PIT,CF
+1024,Ildemaro Vargas,WSN,SS
+1025,Christopher Morel,CHC,RF
+1026,Justin Turner,BOS,1B
+1027,Whit Merrifield,TOR,LF
+1028,Wilmer Flores,SFG,1B
+1029,Ryan McMahon,COL,2B
+1030,Christian Encarnacion-St...,CIN,1B
+1031,Enrique Hernández,2 Tms,2B
+1032,Alec Burleson,STL,1B
+1033,Ezequiel Duran,TEX,3B
+1034,Danny Mendick,NYM,2B
+1035,Eduardo Escobar,2 Tms,2B
+1036,Michael Toglia,COL,RF
+1037,Mike Brosseau,MIL,3B
+1038,Harold Castro,COL,2B
+1039,Gleyber Torres,NYY,2B
+1040,Brayan Rocchio,CLE,3B
+1041,Eduardo Escobar,2 Tms,3B
+1042,Willi Castro,MIN,CF
+1043,Luis Rengifo,LAA,SS
+1044,Trey Mancini,CHC,1B
+1045,Vidal Bruján,TBR,SS
+1046,Christian Yelich,MIL,LF
+1047,Cavan Biggio,TOR,2B
+1048,Harold Ramírez,TBR,RF
+1049,Michael Busch,LAD,3B
+1050,Austin Nola,SDP,C
+1051,Alfonso Rivas,2 Tms,1B
+1052,Jared Walsh,LAA,1B
+1053,Cody Bellinger,CHC,1B
+1054,Jordyn Adams,LAA,CF
+1055,Luis García Jr.,WSN,2B
+1056,Yordan Alvarez,HOU,LF
+1057,Justin Turner,BOS,3B
+1058,Jared Young,CHC,1B
+1059,Enmanuel Valdez,BOS,2B
+1060,Aaron Hicks,2 Tms,CF
+1061,Seth Brown,OAK,LF
+1062,Nick Senzel,CIN,RF
+1063,Mark Mathias,2 Tms,2B
+1064,Elehuris Montero,COL,3B
+1065,Brandon Nimmo,NYM,CF
+1066,Nelson Velázquez,2 Tms,RF
+1067,Joshua Palacios,PIT,LF
+1068,Patrick Wisdom,CHC,3B
+1069,Seiya Suzuki,CHC,RF
+1070,Luis Arraez,MIA,1B
+1071,Matt Vierling,DET,RF
+1072,Joc Pederson,SFG,LF
+1073,Pavin Smith,ARI,RF
+1074,Isiah Kiner-Falefa,NYY,LF
+1075,Luis Urías,2 Tms,2B
+1076,Anthony Rendon,LAA,3B
+1077,Blake Sabol,SFG,LF
+1078,Jordan Diaz,OAK,3B
+1079,Joey Gallo,MIN,LF
+1080,Tom Murphy,SEA,C
+1081,Jonathan India,CIN,2B
+1082,MJ Melendez,KCR,LF
+1083,Trevor Larnach,MIN,LF
+1084,J.T. Realmuto,PHI,C
+1085,Teoscar Hernández,SEA,RF
+1086,Pavin Smith,ARI,1B
+1087,Jose Herrera,ARI,C
+1088,Wil Myers,CIN,RF
+1089,Eric Haase,DET,LF
+1090,Tucupita Marcano,PIT,SS
+1091,Adam Duvall,BOS,CF
+1092,Kerry Carpenter,DET,RF
+1093,Corey Dickerson,WSN,LF
+1094,Ezequiel Duran,TEX,LF
+1095,JJ Bleday,OAK,CF
+1096,Francisco Mejía,TBR,C
+1097,Jose Miranda,MIN,3B
+1098,Andre Lipcius,DET,3B
+1099,Nick Senzel,CIN,LF
+1100,Miguel Vargas,LAD,2B
+1101,Jesús Sánchez,MIA,RF
+1102,Rodolfo Castro,PIT,SS
+1103,Luke Raley,TBR,RF
+1104,Jorge Polanco,MIN,2B
+1105,Conner Capel,OAK,RF
+1106,Elias Díaz,COL,C
+1107,Robbie Grossman,TEX,LF
+1108,Max Muncy,LAD,3B
+1109,Brendan Donovan,STL,1B
+1110,Giancarlo Stanton,NYY,RF
+1111,Robbie Grossman,TEX,RF
+1112,Jake Burger,2 Tms,3B
+1113,Michael Conforto,SFG,RF
+1114,Victor Robles,WSN,CF
+1115,DJ Stewart,NYM,RF
+1116,Mike Moustakas,2 Tms,1B
+1117,Riley Adams,WSN,C
+1118,Spencer Steer,CIN,LF
+1119,Kris Bryant,COL,RF
+1120,Spencer Steer,CIN,3B
+1121,Tyler Stephenson,CIN,C
+1122,Randal Grichuk,2 Tms,LF
+1123,Manuel Margot,TBR,CF
+1124,Salvador Perez,KCR,C
+1125,Brent Rooker,OAK,RF
+1126,Anthony Santander,BAL,RF
+1127,Nolan Schanuel,LAA,1B
+1128,Elehuris Montero,COL,1B
+1129,Ian Happ,CHC,LF
+1130,Jarred Kelenic,SEA,LF
+1131,Vinnie Pasquantino,KCR,1B
+1132,Esteury Ruiz,OAK,CF
+1133,Alec Burleson,STL,LF
+1134,Joey Votto,CIN,1B
+1135,Vaughn Grissom,ATL,SS
+1136,DJ LeMahieu,NYY,1B
+1137,Jake Bauers,NYY,RF
+1138,Jake McCarthy,ARI,RF
+1139,Hunter Renfroe,2 Tms,RF
+1140,Luis Arraez,MIA,2B
+1141,Jorge Soler,MIA,RF
+1142,Keibert Ruiz,WSN,C
+1143,Bryan Reynolds,PIT,LF
+1144,Rowdy Tellez,MIL,1B
+1145,Logan O'Hoppe,LAA,C
+1146,Rafael Devers,BOS,3B
+1147,Gavin Sheets,CHW,RF
+1148,Mark Canha,2 Tms,LF
+1149,Ramón Urías,BAL,3B
+1150,Ryan Mountcastle,BAL,1B
+1151,Yuli Gurriel,MIA,1B
+1152,Edward Olivares,KCR,LF
+1153,Paul Goldschmidt,STL,1B
+1154,Ozzie Albies,ATL,2B
+1155,Andrew Knizner,STL,C
+1156,Carlos Santana,2 Tms,1B
+1157,Josh Bell,2 Tms,1B
+1158,Will Benson,CIN,LF
+1159,Donovan Solano,MIN,1B
+1160,Enrique Hernández,2 Tms,SS
+1161,Oscar Colás,CHW,RF
+1162,Nick Maton,DET,3B
+1163,Nick Pratto,KCR,1B
+1164,Jordan Walker,STL,LF
+1165,Martín Maldonado,HOU,C
+1166,Spencer Steer,CIN,1B
+1167,Freddie Freeman,LAD,1B
+1168,Amed Rosario,2 Tms,SS
+1169,Dominic Smith,WSN,1B
+1170,Oscar Gonzalez,CLE,RF
+1171,Jake Cronenworth,SDP,1B
+1172,Henry Davis,PIT,RF
+1173,Luis Matos,SFG,CF
+1174,Nathaniel Lowe,TEX,1B
+1175,MJ Melendez,KCR,RF
+1176,Starling Marte,NYM,RF
+1177,Alec Bohm,PHI,1B
+1178,Alex Kirilloff,MIN,1B
+1179,LaMonte Wade Jr.,SFG,1B
+1180,Ryan Noda,OAK,1B
+1181,Pete Alonso,NYM,1B
+1182,Randy Arozarena,TBR,LF
+1183,Masataka Yoshida,BOS,LF
+1184,Ty France,SEA,1B
+1185,Lane Thomas,WSN,RF
+1186,Adam Frazier,BAL,2B
+1187,Yandy Díaz,TBR,1B
+1188,Kyle Tucker,HOU,RF
+1189,Bryan De La Cruz,MIA,LF
+1190,Juan Soto,SDP,LF
+1191,José Abreu,HOU,1B
+1192,Matt Olson,ATL,1B
+1193,Ronald Acuña Jr.,ATL,RF
+1194,Andrew Vaughn,CHW,1B
+1195,Jordan Walker,STL,RF
+1196,Andrew Benintendi,CHW,LF
+1197,Triston Casas,BOS,1B
+1198,Spencer Torkelson,DET,1B
+1199,Nick Castellanos,PHI,RF
+1200,Jurickson Profar,2 Tms,LF
+1201,Vladimir Guerrero Jr.,TOR,1B
+1202,Kyle Schwarber,PHI,LF
+1203,Tommy Hunter,NYM,P
+1204,Matt Bush,MIL,P
+1205,Adam Ottavino,NYM,P
+1206,Matt Moore,3 Tms,P
+1207,Zack Greinke,KCR,P
+1208,Clayton Kershaw,LAD,P
+1209,Adam Wainwright,STL,P
+1210,Corey Kluber,BOS,P
+1211,Lance Lynn,2 Tms,P
+1212,Kenley Jansen,BOS,P
+1213,Max Scherzer,2 Tms,P
+1214,Charlie Morton,ATL,P
+1215,Rich Hill,2 Tms,P
+1216,Jake Diekman,2 Tms,P
+1217,Jeurys Familia,OAK,P
+1218,Jesse Chavez,ATL,P
+1219,Madison Bumgarner,ARI,P
+1220,Ryan Brasier,2 Tms,P
+1221,Huascar Brazoban,MIA,P
+1222,Trevor May,OAK,P
+1223,José Cisnero,DET,P
+1224,Alex Cobb,SFG,P
+1225,Carlos Carrasco,NYM,P
+1226,Craig Kimbrel,PHI,P
+1227,Julio Teheran,MIL,P
+1228,Johnny Cueto,MIA,P
+1229,Chase Anderson,2 Tms,P
+1230,Martín Pérez,TEX,P
+1231,Luis García,SDP,P
+1232,Ian Kennedy,TEX,P
+1233,Ryan Pressly,HOU,P
+1234,Fernando Cruz,CIN,P
+1235,Daniel Bard,COL,P
+1236,Jay Jackson,TOR,P
+1237,Collin McHugh,ATL,P
+1238,Jordan Lyles,KCR,P
+1239,Richard Bleier,BOS,P
+1240,Anthony Bass,TOR,P
+1241,Will Smith,TEX,P
+1242,Bryan Shaw,CHW,P
+1243,David Robertson,2 Tms,P
+1244,Lucas Luetge,ATL,P
+1245,Justin Verlander,2 Tms,P
+1246,Wade Miley,MIL,P
+1247,Kirby Yates,ATL,P
+1248,Brad Hand,2 Tms,P
+1249,Nathan Eovaldi,TEX,P
+1250,Patrick Corbin,WSN,P
+1251,Dallas Keuchel,MIN,P
+1252,Joe Kelly,2 Tms,P
+1253,Miles Mikolas,STL,P
+1254,Brooks Raley,NYM,P
+1255,Caleb Thielbar,MIN,P
+1256,Kyle Gibson,BAL,P
+1257,Brad Boxberger,CHC,P
+1258,Ryan Weber,NYY,P
+1259,Shelby Miller,LAD,P
+1260,Aroldis Chapman,2 Tms,P
+1261,Ryan Tepera,2 Tms,P
+1262,Zack Wheeler,PHI,P
+1263,Erasmo Ramírez,2 Tms,P
+1264,Michael Tonkin,ATL,P
+1265,Aaron Loup,LAA,P
+1266,Scott Alexander,SFG,P
+1267,Chris Sale,BOS,P
+1268,Andrew Bellatti,PHI,P
+1269,Chasen Shreve,2 Tms,P
+1270,Jacob deGrom,TEX,P
+1271,Casey Lawrence,STL,P
+1272,Merrill Kelly,ARI,P
+1273,Vince Velasquez,PIT,P
+1274,Zach Neal,OAK,P
+1275,Tommy Kahnle,NYY,P
+1276,Jose Quintana,NYM,P
+1277,Joely Rodríguez,BOS,P
+1278,José Ureña,2 Tms,P
+1279,Jameson Taillon,CHC,P
+1280,Luke Jackson,SFG,P
+1281,Drew Smyly,CHC,P
+1282,Noah Syndergaard,2 Tms,P
+1283,Héctor Neris,HOU,P
+1284,James Paxton,BOS,P
+1285,Taijuan Walker,PHI,P
+1286,Chris Martin,BOS,P
+1287,Jason Adam,TBR,P
+1288,Kyle Hendricks,CHC,P
+1289,Scott McGough,ARI,P
+1290,Yimi García,TOR,P
+1291,Domingo Tapia,SDP,P
+1292,Chris Bassitt,TOR,P
+1293,Colin Rea,MIL,P
+1294,Jacob Barnes,STL,P
+1295,Spencer Patton,OAK,P
+1296,Seth Lugo,SDP,P
+1297,Drew Rucinski,OAK,P
+1298,Nick Ramirez,NYY,P
+1299,Adrian Houser,MIL,P
+1300,Nick Martinez,SDP,P
+1301,Rafael Montero,HOU,P
+1302,Chris Devenski,2 Tms,P
+1303,Sonny Gray,MIN,P
+1304,John Brebbia,SFG,P
+1305,Michael Kelly,CLE,P
+1306,Mike Clevinger,CHW,P
+1307,Andrew Kittredge,TBR,P
+1308,Shawn Armstrong,TBR,P
+1309,Matt Barnes,MIA,P
+1310,Tyler Anderson,LAA,P
+1311,Joe Musgrove,SDP,P
+1312,Andrew Chafin,2 Tms,P
+1313,Anthony DeSclafani,SFG,P
+1314,Yu Darvish,SDP,P
+1315,Gerrit Cole,NYY,P
+1316,Derek Law,CIN,P
+1317,Eduardo Rodriguez,DET,P
+1318,Zach Davies,ARI,P
+1319,Jordan Weems,WSN,P
+1320,Michael Fulmer,CHC,P
+1321,Ross Stripling,SFG,P
+1322,Matt Carasiti,COL,P
+1323,Danny Coulombe,BAL,P
+1324,Luis Cessa,CIN,P
+1325,Hoby Milner,MIL,P
+1326,Steven Matz,STL,P
+1327,Dylan Floro,2 Tms,P
+1328,Matt Koch,COL,P
+1329,Drew VerHagen,STL,P
+1330,Marcus Stroman,CHC,P
+1331,Pierce Johnson,2 Tms,P
+1332,Taylor Rogers,SFG,P
+1333,Lucas Sims,CIN,P
+1334,Daniel Norris,CLE,P
+1335,Blake Snell,SDP,P
+1336,Steven Okert,MIA,P
+1337,Robert Stephenson,2 Tms,P
+1338,Carl Edwards Jr.,WSN,P
+1339,Jakob Junis,SFG,P
+1340,Clay Holmes,NYY,P
+1341,Tayler Scott,3 Tms,P
+1342,Max Fried,ATL,P
+1343,Chris Stratton,2 Tms,P
+1344,Dominic Leone,3 Tms,P
+1345,JT Chargois,MIA,P
+1346,Zach Eflin,TBR,P
+1347,Alex Wood,SFG,P
+1348,Matt Strahm,PHI,P
+1349,Austin Adams,ARI,P
+1350,Paul Sewald,2 Tms,P
+1351,Chris Flexen,2 Tms,P
+1352,Brent Suter,COL,P
+1353,Michael Wacha,SDP,P
+1354,Kevin Gausman,TOR,P
+1355,José Berríos,TOR,P
+1356,Josh Hader,SDP,P
+1357,Wandy Peralta,NYY,P
+1358,Joel Payamps,MIL,P
+1359,Ty Blach,COL,P
+1360,Tyler Glasnow,TBR,P
+1361,Amir Garrett,KCR,P
+1362,Yunior Marte,PHI,P
+1363,Jackson Stephens,ATL,P
+1364,Hyun Jin Ryu,TOR,P
+1365,José Leclerc,TEX,P
+1366,Jorge López,3 Tms,P
+1367,Carlos Estévez,LAA,P
+1368,José Ruiz,2 Tms,P
+1369,Duane Underwood Jr.,PIT,P
+1370,Andrés Machado,WSN,P
+1371,Paul Blackburn,OAK,P
+1372,Julio Urías,LAD,P
+1373,Emilio Pagán,MIN,P
+1374,Buck Farmer,CIN,P
+1375,Dylan Covey,2 Tms,P
+1376,Michael Lorenzen,2 Tms,P
+1377,Joe Mantiply,ARI,P
+1378,Sam Moll,2 Tms,P
+1379,Jon Gray,TEX,P
+1380,Ben Lively,CIN,P
+1381,Chad Kuhl,WSN,P
+1382,Giovanny Gallegos,STL,P
+1383,Scott Barlow,2 Tms,P
+1384,Kyle Finnegan,WSN,P
+1385,Chase De Jong,PIT,P
+1386,Germán Márquez,COL,P
+1387,Tim Mayza,TOR,P
+1388,Trevor Gott,2 Tms,P
+1389,Austin Voth,BAL,P
+1390,Yency Almonte,LAD,P
+1391,Rob Zastryzny,PIT,P
+1392,Ben Heller,ATL,P
+1393,Justin Topa,SEA,P
+1394,Jimmy Yacabonis,NYM,P
+1395,Keynan Middleton,2 Tms,P
+1396,Adam Cimber,TOR,P
+1397,Austin Pruitt,OAK,P
+1398,Kevin Herget,CIN,P
+1399,Andrew Heaney,TEX,P
+1400,Matthew Boyd,DET,P
+1401,Zack Weiss,2 Tms,P
+1402,Mike Mayers,KCR,P
+1403,Nick Pivetta,BOS,P
+1404,José De León,MIN,P
+1405,Marco Gonzales,SEA,P
+1406,Lucas Giolito,3 Tms,P
+1407,Hunter Harvey,WSN,P
+1408,Kendall Graveman,2 Tms,P
+1409,Tyler Rogers,SFG,P
+1410,Mark Leiter Jr.,CHC,P
+1411,Chad Green,TOR,P
+1412,Nick Wittgren,KCR,P
+1413,Miguel Castro,ARI,P
+1414,Luis Castillo,SEA,P
+1415,Jimmy Cordero,NYY,P
+1416,Brad Keller,KCR,P
+1417,Joe Jiménez,ATL,P
+1418,Devin Williams,MIL,P
+1419,Zack Littell,2 Tms,P
+1420,Sean Manaea,SFG,P
+1421,Luis Severino,NYY,P
+1422,Ryne Stanek,HOU,P
+1423,Jordan Romano,TOR,P
+1424,John Curtiss,NYM,P
+1425,Carlos Rodón,NYY,P
+1426,Aaron Nola,PHI,P
+1427,Brandon Woodruff,MIL,P
+1428,Spencer Turnbull,DET,P
+1429,Kyle Freeland,COL,P
+1430,Aaron Bummer,CHW,P
+1431,John Means,BAL,P
+1432,Ryan Borucki,PIT,P
+1433,Tyler Mahle,MIN,P
+1434,Reynaldo López,3 Tms,P
+1435,Yonny Chirinos,2 Tms,P
+1436,Victor González,LAD,P
+1437,Brent Honeywell,2 Tms,P
+1438,Ryan Yarbrough,2 Tms,P
+1439,Jordan Montgomery,2 Tms,P
+1440,Austin Gomber,COL,P
+1441,Erik Swanson,TOR,P
+1442,Bryan Abreu,HOU,P
+1443,Jeff Brigham,NYM,P
+1444,Ryan Thompson,2 Tms,P
+1445,Julian Merryweather,CHC,P
+1446,Brock Stewart,MIN,P
+1447,Tim Hill,SDP,P
+1448,Brennan Bernardino,BOS,P
+1449,Reed Garrett,2 Tms,P
+1450,Luke Weaver,3 Tms,P
+1451,Touki Toussaint,2 Tms,P
+1452,Luis F. Ortiz,PHI,P
+1453,Sean Newcomb,OAK,P
+1454,Trevor Williams,WSN,P
+1455,Tanner Banks,CHW,P
+1456,Pablo López,MIN,P
+1457,Raisel Iglesias,ATL,P
+1458,Domingo Germán,NYY,P
+1459,Gabe Speier,SEA,P
+1460,Dinelson Lamet,2 Tms,P
+1461,Jalen Beeks,TBR,P
+1462,Ranger Suárez,PHI,P
+1463,Michael Kopech,CHW,P
+1464,Javy Guerra,2 Tms,P
+1465,Framber Valdez,HOU,P
+1466,Justin Steele,CHC,P
+1467,Josh Taylor,KCR,P
+1468,Jeff Hoffman,PHI,P
+1469,Jonathan Hernández,TEX,P
+1470,Jack Flaherty,2 Tms,P
+1471,Daniel Duarte,CIN,P
+1472,Albert Abreu,NYY,P
+1473,Génesis Cabrera,2 Tms,P
+1474,Jimmy Herget,LAA,P
+1475,Tanner Scott,MIA,P
+1476,Mitch Keller,PIT,P
+1477,Cristian Javier,HOU,P
+1478,Taylor Clarke,KCR,P
+1479,Justin Lawrence,COL,P
+1480,Jeffrey Springs,TBR,P
+1481,Jose Cuas,2 Tms,P
+1482,Trevor Megill,MIL,P
+1483,Nabil Crismatt,2 Tms,P
+1484,Evan Phillips,LAD,P
+1485,Tyler Alexander,DET,P
+1486,Drew Smith,NYM,P
+1487,Angel Perdomo,PIT,P
+1488,José Alvarado,PHI,P
+1489,Trey Wingenter,DET,P
+1490,Adbert Alzolay,CHC,P
+1491,Ian Gibaut,CIN,P
+1492,Nestor Cortes,NYY,P
+1493,Brett Kennedy,CIN,P
+1494,Dennis Santana,NYM,P
+1495,Tayler Saucedo,SEA,P
+1496,Garrett Cleavinger,TBR,P
+1497,Trent Thornton,2 Tms,P
+1498,Tyler Gilbert,ARI,P
+1499,Brock Burke,TEX,P
+1500,Peter Lambert,COL,P
+1501,Logan Webb,SFG,P
+1502,Pete Fairbanks,TBR,P
+1503,Triston McKenzie,CLE,P
+1504,Phil Maton,HOU,P
+1505,Ryan Helsley,STL,P
+1506,Anthony Misiewicz,3 Tms,P
+1507,James Naile,STL,P
+1508,Tyler Kinley,COL,P
+1509,Andrew Suárez,STL,P
+1510,Carson Fulmer,LAA,P
+1511,Josh Sborz,TEX,P
+1512,Taylor Hearn,3 Tms,P
+1513,James Kaprielian,OAK,P
+1514,Alex Young,CIN,P
+1515,Josh Staumont,KCR,P
+1516,Nick Anderson,ATL,P
+1517,Jaime Barria,LAA,P
+1518,Connor Overton,CIN,P
+1519,Michael Soroka,ATL,P
+1520,Enyel De Los Santos,CLE,P
+1521,José Urquidy,HOU,P
+1522,Trevor Kelley,TBR,P
+1523,Kenta Maeda,MIN,P
+1524,Phil Bickford,2 Tms,P
+1525,Dylan Cease,CHW,P
+1526,Sam Hentges,CLE,P
+1527,Hobie Harris,WSN,P
+1528,A.J. Minter,ATL,P
+1529,Jake Woodford,STL,P
+1530,Freddy Peralta,MIL,P
+1531,Sandy Alcantara,MIA,P
+1532,Kolby Allard,ATL,P
+1533,Miguel Díaz,DET,P
+1534,Pedro Avila,SDP,P
+1535,Kirby Snead,OAK,P
+1536,Jesse Scholtens,CHW,P
+1537,Dakota Hudson,STL,P
+1538,Mitch White,TOR,P
+1539,Cole Irvin,BAL,P
+1540,Seranthony Domínguez,PHI,P
+1541,Ian Hamilton,NYY,P
+1542,Thomas Hatch,2 Tms,P
+1543,Jacob Webb,2 Tms,P
+1544,Zac Gallen,ARI,P
+1545,Trevor Richards,TOR,P
+1546,Cal Quantrill,CLE,P
+1547,Eric Lauer,MIL,P
+1548,Joey Lucchesi,NYM,P
+1549,Richard Lovelady,OAK,P
+1550,A.J. Puk,MIA,P
+1551,Caleb Ferguson,LAD,P
+1552,Dean Kremer,BAL,P
+1553,Lucas Erceg,OAK,P
+1554,Corbin Burnes,MIL,P
+1555,Keegan Akin,BAL,P
+1556,Tony Gonsolin,LAD,P
+1557,Colin Poche,TBR,P
+1558,Ronel Blanco,HOU,P
+1559,Dane Dunning,TEX,P
+1560,Shane Bieber,CLE,P
+1561,Yohan Ramírez,2 Tms,P
+1562,Patrick Sandoval,LAA,P
+1563,Michael Rucker,CHC,P
+1564,Jorge Alcala,MIN,P
+1565,Aaron Civale,2 Tms,P
+1566,Andrew Vasquez,2 Tms,P
+1567,Devin Smeltzer,MIA,P
+1568,Zach Jackson,OAK,P
+1569,Jason Foley,DET,P
+1570,Jimmy Lambert,CHW,P
+1571,Stephen Nogosek,NYM,P
+1572,David Bednar,PIT,P
+1573,JoJo Romero,STL,P
+1574,Cionel Pérez,BAL,P
+1575,Jordan Hicks,2 Tms,P
+1576,Kyle Wright,ATL,P
+1577,Gregory Soto,PHI,P
+1578,Connor Seabold,COL,P
+1579,Dustin May,LAD,P
+1580,Jonathan Loáisiga,NYY,P
+1581,Reiver Sanmartin,CIN,P
+1582,Shohei Ohtani,LAA,P
+1583,Will Vest,DET,P
+1584,Justin Garza,BOS,P
+1585,Keegan Thompson,CHC,P
+1586,Bryan Baker,BAL,P
+1587,Michael King,NYY,P
+1588,Brandon Bielak,HOU,P
+1589,Griffin Canning,LAA,P
+1590,Drew Carlton,SDP,P
+1591,Tucker Davidson,2 Tms,P
+1592,Alex Faedo,DET,P
+1593,Kevin Ginkel,ARI,P
+1594,Tanner Houck,BOS,P
+1595,Alex Lange,DET,P
+1596,Clarke Schmidt,NYY,P
+1597,José Suarez,LAA,P
+1598,Trevor Stephan,CLE,P
+1599,Jesús Luzardo,MIA,P
+1600,Joey Wentz,DET,P
+1601,Tyson Miller,3 Tms,P
+1602,Zach Plesac,CLE,P
+1603,Bryse Wilson,MIL,P
+1604,Joel Kuhnel,2 Tms,P
+1605,Dylan Lee,ATL,P
+1606,Tyler Wells,BAL,P
+1607,Kenny Rosenberg,LAA,P
+1608,John Schreiber,BOS,P
+1609,Rico Garcia,2 Tms,P
+1610,Kaleb Ort,BOS,P
+1611,Bailey Falter,2 Tms,P
+1612,Mauricio Llovera,2 Tms,P
+1613,Calvin Faucher,TBR,P
+1614,Adam Oller,OAK,P
+1615,James Karinchak,CLE,P
+1616,Nate Pearson,TOR,P
+1617,Kyle Muller,OAK,P
+1618,Zach Pop,TOR,P
+1619,Chad Smith,OAK,P
+1620,Garrett Whitlock,BOS,P
+1621,Eli Morgan,CLE,P
+1622,Mike Baumann,BAL,P
+1623,Zach Logue,DET,P
+1624,Griffin Jax,MIN,P
+1625,Deivi García,2 Tms,P
+1626,Cory Abbott,WSN,P
+1627,David Peterson,NYM,P
+1628,Steven Wilson,SDP,P
+1629,Brusdar Graterol,LAD,P
+1630,Matt Manning,DET,P
+1631,Bruce Zimmermann,BAL,P
+1632,Andrés Muñoz,SEA,P
+1633,Greg Weissert,NYY,P
+1634,Anthony Kay,2 Tms,P
+1635,Josh Fleming,TBR,P
+1636,Jovani Moran,MIN,P
+1637,Ryan Walker,SFG,P
+1638,Peter Solomon,ARI,P
+1639,Kyle Nelson,ARI,P
+1640,Nick Sandlin,CLE,P
+1641,Denyi Reyes,NYM,P
+1642,Kutter Crawford,BOS,P
+1643,Grant Anderson,TEX,P
+1644,Bowden Francis,TOR,P
+1645,J.C. Mejía,MIL,P
+1646,Yusei Kikuchi,TOR,P
+1647,Félix Bautista,BAL,P
+1648,Cristopher Sánchez,PHI,P
+1649,Eduard Bazardo,2 Tms,P
+1650,Francisco Pérez,OAK,P
+1651,Adrián Martínez,OAK,P
+1652,Oliver Ortega,MIN,P
+1653,Jhoan Duran,MIN,P
+1654,Emmanuel Clase,CLE,P
+1655,Seth Martinez,HOU,P
+1656,Nick Vespi,BAL,P
+1657,Dauri Moreta,PIT,P
+1658,Alexis Díaz,CIN,P
+1659,Angel Felipe,OAK,P
+1660,Dany Jiménez,OAK,P
+1661,Connor Brogdon,PHI,P
+1662,J.P. France,HOU,P
+1663,Bailey Ober,MIN,P
+1664,Allan Winans,ATL,P
+1665,Jake Bird,COL,P
+1666,Tommy Doyle,COL,P
+1667,Andre Jackson,2 Tms,P
+1668,Tylor Megill,NYM,P
+1669,Parker Mushinski,HOU,P
+1670,Glenn Otto,TEX,P
+1671,Peter Strzelecki,2 Tms,P
+1672,Joe Ryan,MIN,P
+1673,Yerry De Los Santos,PIT,P
+1674,Ryan Feltner,COL,P
+1675,Kris Bubic,KCR,P
+1676,Cole Sands,MIN,P
+1677,Sean Hjelle,SFG,P
+1678,Shane McClanahan,TBR,P
+1679,Jake Irvin,WSN,P
+1680,Thaddeus Ward,WSN,P
+1681,Hogan Harris,OAK,P
+1682,James McArthur,KCR,P
+1683,Daniel Lynch IV,KCR,P
+1684,Jackson Kowar,KCR,P
+1685,Tristan Beck,SFG,P
+1686,Luis Medina,OAK,P
+1687,Elvis Peguero,MIL,P
+1688,Edward Cabrera,MIA,P
+1689,Javier Assad,CHC,P
+1690,Braxton Garrett,MIA,P
+1691,Cole Ragans,2 Tms,P
+1692,Mason Thompson,WSN,P
+1693,George Soriano,MIA,P
+1694,Jordan Balazovic,MIN,P
+1695,Gregory Santos,CHW,P
+1696,Yerry Rodríguez,TEX,P
+1697,Max Castillo,KCR,P
+1698,Camilo Doval,SFG,P
+1699,Luis Frías,ARI,P
+1700,John King,2 Tms,P
+1701,José Soriano,LAA,P
+1702,Hunter Greene,CIN,P
+1703,MacKenzie Gore,WSN,P
+1704,DL Hall,BAL,P
+1705,Jeremiah Estrada,CHC,P
+1706,Jonathan Heasley,KCR,P
+1707,Logan Gilbert,SEA,P
+1708,Tarik Skubal,DET,P
+1709,Dylan Coleman,KCR,P
+1710,Trevor Rogers,MIA,P
+1711,Mason Englert,DET,P
+1712,Matthew Liberatore,STL,P
+1713,Jose Hernandez,PIT,P
+1714,Colin Holderman,PIT,P
+1715,Josh Winckowski,BOS,P
+1716,Johan Oviedo,PIT,P
+1717,Taj Bradley,TBR,P
+1718,Carlos Hernández,KCR,P
+1719,Angel Zerpa,KCR,P
+1720,Roansy Contreras,PIT,P
+1721,Luis Patiño,2 Tms,P
+1722,Juan Then,SEA,P
+1723,Joan Adon,WSN,P
+1724,Eduardo Salazar,CIN,P
+1725,Osvaldo Bido,PIT,P
+1726,Steven Cruz,KCR,P
+1727,Michael Grove,LAD,P
+1728,Cody Bolton,PIT,P
+1729,Collin Snider,KCR,P
+1730,José Buttó,NYM,P
+1731,Freddy Tarnok,OAK,P
+1732,Robert Garcia,2 Tms,P
+1733,JP Sears,OAK,P
+1734,Tom Cosgrove,SDP,P
+1735,Hunter Stratton,PIT,P
+1736,Brandon Hughes,CHC,P
+1737,Ron Marinaccio,NYY,P
+1738,Keaton Winn,SFG,P
+1739,Josh Walker,NYM,P
+1740,Luis Garcia,HOU,P
+1741,Justin Bruihl,2 Tms,P
+1742,Ryan Weathers,2 Tms,P
+1743,Ray Kerr,SDP,P
+1744,Brayan Bello,BOS,P
+1745,Jose A. Ferrer,WSN,P
+1746,Justin Martinez,ARI,P
+1747,Grayson Rodriguez,BAL,P
+1748,Josiah Gray,WSN,P
+1749,Lyon Richardson,CIN,P
+1750,Kyle Bradish,BAL,P
+1751,Drew Rom,STL,P
+1752,Austin Cox,KCR,P
+1753,Josh Winder,MIN,P
+1754,Randy Vásquez,NYY,P
+1755,Gus Varland,2 Tms,P
+1756,Andrew Wantz,LAA,P
+1757,Reese Olson,DET,P
+1758,Cooper Criswell,TBR,P
+1759,Colin Selby,PIT,P
+1760,Kody Funderburk,MIN,P
+1761,Alex Vesia,LAD,P
+1762,Lane Ramsey,CHW,P
+1763,Garrett Hill,DET,P
+1764,Jacob Lopez,TBR,P
+1765,Tim Herrin,CLE,P
+1766,Penn Murfee,SEA,P
+1767,Joe Jacques,BOS,P
+1768,Abner Uribe,MIL,P
+1769,Nick Mears,COL,P
+1770,Brady Singer,KCR,P
+1771,Sam Long,OAK,P
+1772,Drew Rasmussen,TBR,P
+1773,Jhony Brito,NYY,P
+1774,Gavin Hollowell,COL,P
+1775,George Kirby,SEA,P
+1776,Brandon Williamson,CIN,P
+1777,Joe La Sorsa,2 Tms,P
+1778,Matt Waldron,SDP,P
+1779,Isaiah Campbell,SEA,P
+1780,Sammy Peralta,CHW,P
+1781,Xzavion Curry,CLE,P
+1782,Hunter Gaddis,CLE,P
+1783,Declan Cronin,CHW,P
+1784,Levi Stoudt,CIN,P
+1785,Ty Adcock,SEA,P
+1786,Kevin Kelly,TBR,P
+1787,Matt Brash,SEA,P
+1788,Peyton Battenfield,CLE,P
+1789,Noah Davis,COL,P
+1790,Hunter Brown,HOU,P
+1791,Yennier Cano,BAL,P
+1792,Zack Thompson,STL,P
+1793,Casey Legumina,CIN,P
+1794,Darius Vines,ATL,P
+1795,Andrew Nardi,MIA,P
+1796,Quinn Priester,PIT,P
+1797,Brendan White,DET,P
+1798,Sawyer Gipson-Long,DET,P
+1799,Brandon Walter,BOS,P
+1800,Beau Brieske,DET,P
+1801,Andre Pallante,STL,P
+1802,Amos Willingham,WSN,P
+1803,Andrew Saalfrank,ARI,P
+1804,Chris Murphy,BOS,P
+1805,Jackson Rutledge,WSN,P
+1806,Ryan Pepiot,LAD,P
+1807,Nick Robertson,2 Tms,P
+1808,Tyler Holton,DET,P
+1809,Ryne Nelson,ARI,P
+1810,Joey Estes,OAK,P
+1811,Drey Jameson,ARI,P
+1812,Tommy Henry,ARI,P
+1813,Bryan Hoeing,MIA,P
+1814,Nick Lodolo,CIN,P
+1815,Alek Manoah,TOR,P
+1816,Alec Marsh,KCR,P
+1817,Garrett Crochet,CHW,P
+1818,Reid Detmers,LAA,P
+1819,Emerson Hancock,SEA,P
+1820,Jared Shuster,ATL,P
+1821,Bryce Jarvis,ARI,P
+1822,Bobby Miller,LAD,P
+1823,Karl Kauffmann,COL,P
+1824,Spencer Strider,ATL,P
+1825,Slade Cecconi,ARI,P
+1826,Graham Ashcraft,CIN,P
+1827,Carmen Mlodzinski,PIT,P
+1828,Hayden Wesneski,CHC,P
+1829,Davis Daniel,LAA,P
+1830,Logan Allen,CLE,P
+1831,Cody Bradford,TEX,P
+1832,Luis L. Ortiz,PIT,P
+1833,Connor Phillips,CIN,P
+1834,Ken Waldichuk,OAK,P
+1835,Carson Spiers,CIN,P
+1836,Louie Varland,MIN,P
+1837,Brent Headrick,MIN,P
+1838,Kyle Harrison,SFG,P
+1839,Eury Pérez,MIA,P
+1840,Bryce Elder,ATL,P
+1841,Brandon Pfaadt,ARI,P
+1842,Gavin Stone,LAD,P
+1843,Daniel Palencia,CHC,P
+1844,Joe Boyle,OAK,P
+1845,Sam Bachman,LAA,P
+1846,Bryce Miller,SEA,P
+1847,Emmet Sheehan,LAD,P
+1848,Andrew Abbott,CIN,P
+1849,Dylan Dodd,ATL,P
+1850,Grant Hartwig,NYM,P
+1851,AJ Smith-Shawver,ATL,P
+1852,Chase Silseth,LAA,P
+1853,Jordan Wicks,CHC,P
+1854,Robert Suarez,SDP,P
+1855,Gavin Williams,CLE,P
+1856,Tanner Bibee,CLE,P
+1857,Bryan Woo,SEA,P
+1858,Ben Joyce,LAA,P
+1859,Mason Miller,OAK,P
+1860,Kodai Senga,NYM,P
+1861,Shintaro Fujinami,2 Tms,P
